@@ -1,0 +1,15 @@
+.form-data{
+    padding:20px 30px 15px 300px;
+    width:200px
+}
+.formItem label{
+    font-weight:600;
+    font-size: x-large;
+}
+input, button{
+    padding: 15px;
+}
+
+.btn{
+    font-size: large;
+}
