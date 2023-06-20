@@ -41,6 +41,7 @@ submitHandler = (event) =>{
             quantity:this.state.quantity
         })
     })
+    alert("Succesfully entered")
 }
 
   render() {
